@@ -240,7 +240,33 @@ Server S4 (0 VM) -> move to Server S1 | Power off S4 to save power.
 
 ## 2.10 Screenshots
 
-> 📸 Screenshots will be added after program execution.
+<img width="576" height="630" alt="Screenshot 2026-06-14 at 2 11 55 AM" src="https://github.com/user-attachments/assets/410f0c36-3c48-4c4f-833a-8702b12d122c" />
+
+
+<img width="779" height="828" alt="Screenshot 2026-06-14 at 2 00 42 AM" src="https://github.com/user-attachments/assets/12d0499f-702c-40fe-8ed8-d5191f2e5542" />
+
+<img width="659" height="632" alt="Screenshot 2026-06-14 at 2 02 49 AM" src="https://github.com/user-attachments/assets/b0b63915-3b6c-4b89-a15b-31e24d24a905" />
+
+<img width="619" height="515" alt="Screenshot 2026-06-14 at 2 03 50 AM" src="https://github.com/user-attachments/assets/99f37755-374d-4bd3-930a-8c82568720e5" />
+
+<img width="628" height="622" alt="Screenshot 2026-06-14 at 2 06 11 AM" src="https://github.com/user-attachments/assets/8c33476a-5904-40c9-8343-ff9bf7e15075" />
+
+<img width="720" height="677" alt="Screenshot 2026-06-14 at 2 08 50 AM" src="https://github.com/user-attachments/assets/c694b376-7258-4282-a324-f6145e924709" />
+
+
+
+
+
+
+
+
+
+
+
+>
+
+
+
 
 ---
 
