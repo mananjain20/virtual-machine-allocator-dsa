@@ -263,7 +263,7 @@ The ServerPack Cloud Tenant Virtual Machine Allocator successfully demonstrates 
 
 ## 🔗 GitHub Repository
 
-[virtual-machine-allocator-dsa](https://github.com/mananjain/virtual-machine-allocator-dsa)
+[virtual-machine-allocator-dsa] https://github.com/mananjain20/virtual-machine-allocator-dsa/tree/main
 
 > *(Replace the above link with your actual GitHub repository URL)*
 
