@@ -265,6 +265,6 @@ The ServerPack Cloud Tenant Virtual Machine Allocator successfully demonstrates 
 
 [virtual-machine-allocator-dsa] https://github.com/mananjain20/virtual-machine-allocator-dsa/tree/main
 
-> *(Replace the above link with your actual GitHub repository URL)*
+
 
 
